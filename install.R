@@ -1,0 +1,12 @@
+install.packages("tidyverse")
+install.packages("rmarkdown")
+install.packages("httr")
+install.packages("shinydashboard")
+install.packages("leaflet")
+install.packages("sandwich")
+install.packages("zoo")
+install.packages("lmtest")
+install.packages("tseries")
+install.packages("rprojroot")
+install.packages("here")
+
